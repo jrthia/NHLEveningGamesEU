@@ -16,5 +16,5 @@ This was built for the 2025-26 NHL season. An updated version will be launched o
 (Update is released). 
 
 Built with Python + NHL API.
-## Live Link
+## Live Link  
 https://jrthia.github.io/NHLEveningGamesEU/
