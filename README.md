@@ -1,4 +1,4 @@
-# NHLEveningGamesEU
+# Sleep Schedule Friendly NHL
 Watch NHL games in Europe without ruining your sleep schedule. Covers all three main European time zones!
 ## What is this?
 A schedule of NHL games that European fans can watch without having to stay up too late, filtered by timezone:
@@ -13,5 +13,8 @@ A schedule of NHL games that European fans can watch without having to stay up t
 
 ## Note
 This was built for the 2025-26 NHL season. An updated version will be launched once the 2026-27 schedule is released.
+(Update is released). 
 
 Built with Python + NHL API.
+## Live Link
+https://jrthia.github.io/NHLEveningGamesEU/
